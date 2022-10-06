@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATMUnitTest.csproj": {}
+    "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATM/ATM/ATM.csproj": {}
   },
   "projects": {
-    "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATMUnitTest.csproj": {
+    "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATM/ATM/ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATMUnitTest.csproj",
-        "projectName": "ATMUnitTest",
-        "projectPath": "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATMUnitTest.csproj",
+        "projectUniqueName": "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATM/ATM/ATM.csproj",
+        "projectName": "ATM",
+        "projectPath": "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATM/ATM/ATM.csproj",
         "packagesPath": "/Users/tylermorgan/.nuget/packages/",
-        "outputPath": "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/obj/",
+        "outputPath": "/Users/tylermorgan/code401/LABS/Lab02_Unit-Testing_C-Tyler/ATMUnitTest/ATM/ATM/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tylermorgan/.nuget/NuGet/NuGet.Config"
